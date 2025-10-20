@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Lucid_Origin_Create_a_clean_modern_banner_for_a_GitHub_scienti_2](https://github.com/user-attachments/assets/e0745f4a-87f3-42f4-844a-9d79fa5f664b)
+
 # 🧬 Welcome to **The Komics Lab**
 
 Hi, I’m **Komal Sharma** — a **skincare founder**, **explorer**, and emerging **bioinformatics enthusiast**.  
