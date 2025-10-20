@@ -59,7 +59,7 @@ where data tells the story of beauty at a molecular level.*
 ### 🌍 📫 How to reach me:
 - 🧬 GitHub Projects: [The Komics Lab](https://github.com/thekomicslab)  
 - 💼 LinkedIn: [Komal Sharma](https://www.linkedin.com/in/komalsharma)  
-- 🌿 Brand: [Kalonze Natural Skincare](https://instagram.com/kalonze.naturals)  
+- 🌿 Brand: [Kalonze Natural Skincare](https://instagram.com/kalonzeindia)  
 - ✉️ Email: kaykaushik@gmail.com
 ---
 
