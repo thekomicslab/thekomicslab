@@ -2,8 +2,19 @@
 # 🧬 Welcome to **The Komics Lab**
 
 🔭 I’m currently working on building and scaling my skincare brand. 
-Hi, I’m **Komal Sharma** — a **skincare founder**, **Explorer**, and an emerging **bioinformatics explorer**.  
+Hi, I’m **Komal Sharma** — a **skincare founder**, **Explorer**, and an emerging **bioinformatics enthusiast**.  
 At **The Komics Lab**, I blend biology, data, and design to decode how our skin works — from **melanocytes to molecules**.
+With a Master’s in Computer Science from ASU and extensive experience in IT and management, I often wondered how I ended up in skincare. The answer is simple: I wanted to help people heal. That became my ikigai — the intersection of science, empathy, and purpose.
+
+This passion led me to focus on skin health and pigmentation disorders, particularly melasma, a common yet complex condition. To understand it deeply, I dove into molecular dermatology, cell biology, and bioinformatics, exploring the genes, pathways, and mechanisms behind pigmentation.
+
+At The Komics Lab, I merge my diverse experiences — technology, data science, and skincare — to:
+
+Decode the molecular basis of skin conditions
+Apply Python and bioinformatics tools to analyze biological data
+Translate research insights into practical solutions for skin health
+
+My work is a blend of research, data analysis, and creative storytelling, aiming to bridge the gap between science and skincare. Here, code meets cells, and curiosity drives innovation.
 
 ---
 
