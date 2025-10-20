@@ -1,13 +1,14 @@
 ## Hi there 👋
 # 🧬 Welcome to **The Komics Lab**
 
-Hi, I’m **Komal Sharma** — a **skincare founder**, **creative scientist**, and an emerging **bioinformatics explorer**.  
+🔭 I’m currently working on building and scaling my skincare brand. 
+Hi, I’m **Komal Sharma** — a **skincare founder**, **Explorer**, and an emerging **bioinformatics explorer**.  
 At **The Komics Lab**, I blend biology, data, and design to decode how our skin works — from **melanocytes to molecules**.
 
 ---
 
 ### 🌿 Current Focus
-**Month 1: Skin & Cell Biology Foundation**  
+**Skin & Cell Biology Foundation**  
 - Skin structure and cell types (melanocytes, keratinocytes, fibroblasts)  
 - Melanin synthesis pathways (TYR, MITF, MC1R, Wnt)  
 - Oxidative stress and gene expression  
@@ -17,8 +18,7 @@ At **The Komics Lab**, I blend biology, data, and design to decode how our skin 
 [**Skin & Cell Biology Portfolio →**](https://github.com/thekomicslab/Skin-Cell-Biology-Portfolio)
 
 ---
-
-### 🧠 What I’m Learning
+ 🌱 I’m currently learning ...
 - **Bioinformatics fundamentals** — sequences, databases, and data pipelines  
 - **Cell signaling + pigmentation** — understanding skin from a molecular lens  
 - **Python & Data Science** — Jupyter, Pandas, Matplotlib  
@@ -35,34 +35,24 @@ At **The Komics Lab**, I blend biology, data, and design to decode how our skin 
 | 🗂️ **Documentation** | Notion, GitHub Pages |
 
 ---
+- 👯 I’m looking to collaborate on someone with a knowledge on biopython and melesma to understand in depth, the problem we are facing of hyper pigmentation.
 
+- 🤔 I’m looking for help with someone who has a deep understanding of Bioinformatics and how they would start if they were doing from scratch.
+  
 ### 🌸 Vision
 > *To merge scientific exploration, skincare innovation, and creative communication —  
 where data tells the story of beauty at a molecular level.*
 
 ---
-
-### 🌍 Connect
+- 💬 Ask me about bioinformatics, python, business building
+### 🌍 📫 How to reach me:
 - 🧬 GitHub Projects: [The Komics Lab](https://github.com/thekomicslab)  
 - 💼 LinkedIn: [Komal Sharma](https://www.linkedin.com/in/komalsharma)  
 - 🌿 Brand: [Kalonze Natural Skincare](https://instagram.com/kalonze.naturals)  
-- ✉️ Email: your.email@example.com  
-
+- ✉️ Email: kaykaushik@gmail.com
 ---
 
 ⭐ *“The Komics Lab — where code meets cells.”*
 
-<!--
-**thekomicslab/thekomicslab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
