@@ -27,7 +27,7 @@ My work is a blend of research, data analysis, and creative storytelling — whe
 - Python for bioinformatics (data visualization + gene expression basics)
 
 📘 Documenting daily notes and projects:  
-[**Skin & Cell Biology Portfolio →**](https://github.com/thekomicslab/Skin-Cell-Biology-Portfolio)
+[**Get your basics right →**](https://github.com/thekomicslab/Basics)
 
 ---
 
