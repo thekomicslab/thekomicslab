@@ -1,4 +1,6 @@
 ## 👋 Hi there!
+![Uploading Lucid_Origin_Create_a_clean_modern_banner_for_a_GitHub_Data_sc_1.jpg…]()
+
 
 # 🧠 Welcome to **The Komics Lab**
 
