@@ -1,74 +1,109 @@
-## Hi there 👋
-![Lucid_Origin_Create_a_clean_modern_banner_for_a_GitHub_scienti_2](https://github.com/user-attachments/assets/e0745f4a-87f3-42f4-844a-9d79fa5f664b)
+## 👋 Hi there!
 
-# 🧬 Welcome to **The Komics Lab**
+# 🧠 Welcome to **The Komics Lab**
 
-Hi, I’m **Komal Sharma** — a **skincare founder**, **explorer**, and emerging **bioinformatics enthusiast**.  
+Hey, I’m **Komal Sharma** — a **data science explorer**, **tech storyteller**, and **creative problem-solver** on a mission to turn raw data into insights that matter.
 
-At **The Komics Lab**, I combine biology, data, and design to decode how our skin works — from **melanocytes to molecules**. With a Master’s in Computer Science from ASU and extensive experience in IT and management, I found my ikigai in skincare: helping people heal by bridging science and empathy.
+At **The Komics Lab**, I believe that data is more than numbers — it’s a narrative waiting to be discovered. My goal is to transform complex datasets into stories that are insightful, actionable, and beautifully visualized.
 
-My current focus is skin health and pigmentation disorders, particularly **melasma**, a common yet complex condition. To understand it deeply, I study molecular dermatology, cell biology, and bioinformatics — exploring the genes, pathways, and mechanisms behind pigmentation.
-
-At The Komics Lab, I merge technology, data science, and skincare to:
-
-- Decode the molecular basis of skin conditions  
-- Apply Python and bioinformatics tools to analyze biological data  
-- Translate research insights into practical solutions for skin health  
-
-My work is a blend of research, data analysis, and creative storytelling — where **code meets cells** and curiosity drives innovation.
+With a background in **Computer Science (ASU)**, **IT management**, and **entrepreneurship**, I’ve spent years blending logic and creativity — from building digital products to studying consumer behavior. Now, I bring that same multidisciplinary curiosity into **data science**, exploring how data can reveal what drives decisions, systems, and people.
 
 ---
 
-### 🌿 Current Focus
-**Skin & Cell Biology Foundation**  
-- Skin structure and cell types (melanocytes, keratinocytes, fibroblasts)  
-- Melanin synthesis pathways (TYR, MITF, MC1R, Wnt)  
-- Oxidative stress and gene expression  
-- Python for bioinformatics (data visualization + gene expression basics)
+## 🔍 What The Komics Lab Stands For
 
-📘 Documenting daily notes and projects:  
-[**Get your basics right →**](https://github.com/thekomicslab/Basics)
+**The Komics Lab** is my creative space where I mix:
 
----
+* 🧪 *Science* — Data analysis, algorithms, and model building
+* 🎨 *Art* — Visual storytelling, creative dashboards, and narrative-driven analysis
+* 💡 *Insight* — Turning observations into real-world applications
 
-### 🌱 Learning & Development
-- **Bioinformatics fundamentals** — sequences, databases, and data pipelines  
-- **Cell signaling & pigmentation** — understanding skin at a molecular level  
-- **Python & Data Science** — Jupyter, Pandas, Matplotlib  
-- **Scientific storytelling** — turning complex biology into visuals and actionable insights  
+Each project here is built with curiosity first, showcasing not just results — but *how* and *why* those results make sense.
 
 ---
 
-### 🔬 Tools & Technologies
-| Category | Tools |
-|----------|-------|
-| 🧩 Coding & Analysis | Python, Jupyter Notebook, Pandas, Biopython |
-| 🧬 Bioinformatics | NCBI GEO, Ensembl, KEGG |
-| 🎨 Visualization | BioRender, Canva, Seaborn |
-| 🗂️ Documentation | Notion, GitHub Pages |
+### 🎯 What I’m Learning
+
+I’m currently building a deep foundation in:
+
+* **Python for Data Science** — mastering Pandas, NumPy, and data manipulation
+* **Exploratory Data Analysis (EDA)** — cleaning, visualizing, and understanding patterns
+* **Machine Learning Fundamentals** — regression, classification, and clustering models
+* **Data Visualization & Storytelling** — using Matplotlib, Seaborn, and Plotly
+* **Statistics & Probability** — applying real-world logic to data-driven problems
+* **Project Design** — structuring data workflows using the Data Science Life Cycle
 
 ---
 
-### 🤝 Collaboration
-- Open to collaborating with experts in **Biopython** and **melasma research** to deepen insights into hyperpigmentation.  
-- Looking for guidance from experienced bioinformaticians on starting projects from scratch.
+### 🚀 Projects at The Komics Lab
+
+Each project is designed to focus on a **specific data science skill** — allowing both beginners and enthusiasts to learn by exploring.
+
+| Project                                                                               | Concept Focus                                                  | Dataset                | Skills Covered                             |
+| ------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------- | ------------------------------------------ |
+| [1. Movie Rating Analysis](https://github.com/thekomicslab/Movie-Rating-Analysis)     | Reading CSVs, cleaning data, finding trends in film ratings    | IMDB Top 1000 (Kaggle) | pandas, data cleaning, visualization       |
+| [2. Sales Data Dashboard](https://github.com/thekomicslab/Sales-Data-Dashboard)       | Data summarization, trend analysis, and insights visualization | Fake sales data        | pandas, matplotlib, dashboard storytelling |
+| [3. Weather Data Trends](https://github.com/thekomicslab/Weather-Data-Trends)         | Working with datetime and visualizing climate changes          | CSV from weather site  | datetime, time-series, plotting            |
+| [4. Student Score Predictor](https://github.com/thekomicslab/Student-Score-Predictor) | Predicting student outcomes using regression                   | Synthetic CSV dataset  | sklearn, LinearRegression, EDA             |
+| [5. Amazon Product Reviews](https://github.com/thekomicslab/Amazon-Product-Reviews)   | Performing basic NLP and sentiment visualization               | Small sample dataset   | nltk, text cleaning, wordcloud             |
 
 ---
 
-### 🌸 Vision
-> *To merge scientific exploration, skincare innovation, and creative communication — where data tells the story of beauty at a molecular level.*
+### 🧩 How These Projects Help
+
+Each notebook is designed for **beginners and learners** — explained step-by-step with detailed comments so anyone can follow along.
+Think of it as your data science diary — full of experiments, stories, and small wins that build real skill over time.
 
 ---
 
-### 💬 Ask me about
-Bioinformatics, Python, skincare research, and building science-driven businesses.
+### 🧠 Other Ongoing Work
 
-### 🌍 Contact
-- 🧬 GitHub Projects: [The Komics Lab](https://github.com/thekomicslab)  
-- 💼 LinkedIn: [Komal Sharma](https://www.linkedin.com/in/komalsharma)  
-- 🌿 Brand: [Kalonze Natural Skincare](https://instagram.com/kalonzeindia)  
-- ✉️ Email: kaykaushik@gmail.com
+* 📊 *Customer Insights Dashboard* — turning user data into storytelling dashboards
+* 🎬 *MovieLens Recommender* — predicting what you’ll love next using collaborative filtering
+* 🚀 *Startup Success Predictor* — exploring how early-stage data predicts growth
+* 🌍 *Global Trends Visualized* — visualizing patterns from open-source data
 
 ---
 
-⭐ *“The Komics Lab — where code meets cells.”*
+### 🛠️ Tech Stack
+
+| 💻 Category       | 🧩 Tools                             |
+| ----------------- | ------------------------------------ |
+| Programming       | Python, Jupyter Notebook             |
+| Data Handling     | Pandas, NumPy                        |
+| Visualization     | Matplotlib, Seaborn, Plotly          |
+| Machine Learning  | Scikit-learn, Regression, Clustering |
+| NLP & Text Mining | NLTK, WordCloud                      |
+| Collaboration     | Git, GitHub                          |
+| Documentation     | Notion, GitHub Pages                 |
+
+---
+
+### 🌱 Mission
+
+> *To explore data with curiosity, extract meaningful insights, and design projects that simplify how people understand information.*
+
+### 🌍 Vision
+
+> *To build a creative data science space where learning feels approachable, insights feel alive, and every dataset tells a unique story.*
+
+---
+
+### 💡 What’s Next for The Komics Lab
+
+* Launching a **GitHub blog section** for step-by-step project explanations
+* Creating **mini data challenges** for beginners to practice Python and EDA
+* Publishing **visual storytelling notebooks** that turn analytics into art
+
+---
+
+### 🤝 Let’s Connect
+
+* 🧠 GitHub: [The Komics Lab](https://github.com/thekomicslab)
+* 💼 LinkedIn: [Komal Sharma](https://www.linkedin.com/in/komalsharma)
+* ✉️ Email: [kaykaushik@gmail.com](mailto:kaykaushik@gmail.com)
+* 🌿 Personal Brand: [Kalonze Natural Skincare](https://instagram.com/kalonzeindia)
+
+---
+
+⭐ *“The Komics Lab — where data meets creativity, and learning becomes a story.”*
